@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **food delivery app**
 
-- 🌱 I’m currently learning **REACT, JS ,node**
+- 🌱 I’m currently using stacks **REACT, JS ,node**
 
 - 👯 I’m looking to collaborate on **front end dev tech**
 
@@ -12,6 +12,7 @@
 - 📫 How to reach me **amanakhtar881@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<button type="tel">Emain</button>
 <p align="left">
 </p>
 
