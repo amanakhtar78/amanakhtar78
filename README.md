@@ -12,7 +12,9 @@
 - 📫 How to reach me **amanakhtar881@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<button type="tel">Emain</button>
+Email:  **amanakhtar881@gmail.com**
+Phone: **9743831494**
+
 <p align="left">
 </p>
 
