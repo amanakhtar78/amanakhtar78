@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AMAN AKhtar</h1>
+<h1 align="center">Hi 👋, I'm AMAN AKHTAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **food delivery app**
@@ -11,9 +11,8 @@
 
 - 📫 How to reach me **amanakhtar881@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-Email:  **amanakhtar881@gmail.com**
-Phone: **9743831494**
+<h3 align="left">Connect with me</h3>
+
 
 <p align="left">
 </p>
