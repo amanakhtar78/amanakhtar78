@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AMAN AKHTAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **food delivery app**
+- 🔭 I’m currently working on **TRIP PLANNER APP**
 
 - 🌱 I’m currently using stacks **REACT, JS ,node**
 
