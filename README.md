@@ -12,7 +12,7 @@
 - 📫 How to reach me **amanakhtar881@gmail.com**
 
 <h3 align="left">Connect with me</h3>
-<a href="https://drive.google.com/file/d/13yXkxnAbI0QXWaahJERmdgYCXhcLr3Hf/view">Resume Link</a>
+<a href="https://drive.google.com/file/d/1BDg_ZAC12rgJBhuu1OA6YFkB1GPymkFc/view?usp=sharing">Resume Link</a>
 
 <p align="left">
 </p>
