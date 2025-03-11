@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently using stacks **REACT, JS ,node**
 
-- 👯 I’m looking to collaborate on **front end dev tech**
+- 👯 I’m looking to collaborate on **Frontend/Backend dev tech**
 
 - 💬 Ask me about **react**
 
