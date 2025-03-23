@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AMAN AKHTAR</h1>
+<h1 align="center">Hi 👋, I'm AMAN V</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **TRIP PLANNER APP**
@@ -9,10 +9,9 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **amanakhtar881@gmail.com**
+
 
 <h3 align="left">Connect with me</h3>
-<a href="https://drive.google.com/file/d/18I13wTuQ_W2LbBJ5hWBpeFxG0PqsDcIL/view?usp=sharing">Resume Link</a>
 
 <p align="left">
 </p>
