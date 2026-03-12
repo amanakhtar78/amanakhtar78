@@ -7,7 +7,7 @@
 - 🌱 Tech Stack: **React, Next.js, NestJS, Node.js, React Native, TypeScript, Tailwind CSS, SQL/MongoDB**  
 - 👯 Open to collaborate on: **Full-Stack Projects | Web & Mobile Applications**  
 - 💬 Ask me about: **React, Next.js, NestJS, TypeScript, React Native**  
-- 📄 [**Resume**](https://drive.google.com/file/d/1LYL1CZjshDnRD9o9ZQb24BzKiKyussG6/view?usp=sharing)  
+- 📄 [**Resume**](https://drive.google.com/file/d/1URiau4CzyTidCMvmzWJlrkSTXTxw5T-P/view?usp=sharing)  
 - 📝 [**Cover Letter**](https://drive.google.com/file/d/1B4Fl9qtsjo_WDI3WYGzb-P-HZomtoalJ/view?usp=sharing)  
 - 🌐 [**Portfolio**](https://amanakhtar78.github.io/portfolio-js/)  
 - 📫 Reach me at: **amanakhtar881@gmail.com**  
